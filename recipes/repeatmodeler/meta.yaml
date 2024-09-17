@@ -34,7 +34,7 @@ requirements:
     - perl-libwww-perl
     - perl-devel-size
     - repeatmasker >=4.1.5
-    - rmblast >=2.13.0
+    - rmblast >=2.14.0
     - trf >=4.09
     - repeatscout >=1.0.6
     - recon >=1.08
